@@ -6,6 +6,7 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 
 [Click here to use the Calculator](#)  
 *(Add your GitHub Pages or hosted link here)*
+https://github.com/tejash7489/JS_Mini_Projects/blob/main/calculator.html
 
 ---
 
