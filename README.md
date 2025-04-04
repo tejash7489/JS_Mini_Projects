@@ -31,3 +31,12 @@ A basic calculator web app built using **HTML**, **CSS**, and **JavaScript**. It
 - **JavaScript** – Calculator logic and interactivity
 
 ---
+
+
+## 📂 Project Structure
+
+```bash
+calculator/
+├── index.html
+├── style.css
+└── script.js
